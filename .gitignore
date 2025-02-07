@@ -1,0 +1,17 @@
+# Binaries
+#*.exe
+#*.db
+#*.log
+
+# Build directories
+/build/
+/gen/
+/migrator/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db

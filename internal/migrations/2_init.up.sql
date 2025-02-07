@@ -1,0 +1,7 @@
+
+CREATE TABLE logs (
+    id     INTEGER PRIMARY KEY AUTOINCREMENT,
+    ip     VARCHAR(40) NOT NULL,
+    cookie TEXT
+);
+
