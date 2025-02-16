@@ -36,8 +36,8 @@ curl -X POST -H "Content-Type: text/plain" --data "Ваш секретный т�
 ### ⚡ Быстрая установка
 
 ```bash
-git clone https://github.com/yourusername/text-processing-service.git
-cd text-processing-service
+git clone https://github.com/makhkets/interceptor
+cd interceptor
 go mod tidy
 sqlite3 storage/database.db < schema.sql
 ```
